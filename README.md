@@ -1,7 +1,6 @@
 # Desafio Prático: Detecção de Fraudes em Cartões de Crédito 💳🛡️
 
-Projeto desenvolvido como parte do desafio prático de Machine Learning e Segurança da informação da **DIO**. O objetivo principal é construir um pipeline preditivo de ponta a ponta capaz de identificar transações fraudulentas num cenário altamente desbalanceado.
-
+Projeto de análise de dados e Machine Learning desenvolvido para o Bootcamp Bradesco - GenAI, Dados & Cyber ​​, da DIO.
 ---
 
 ## 🚀 Sobre o Projeto
